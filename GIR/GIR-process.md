@@ -95,3 +95,4 @@ sequenceDiagram
     EDSN->>GIR: Opvragen metadata
     Note over GIR: Controleer autorisaties:\nEDSN krijgt toegang
     GIR-->>EDSN: Verstrek metadata
+```
