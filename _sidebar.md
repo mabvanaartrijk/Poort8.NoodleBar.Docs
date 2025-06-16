@@ -1,7 +1,7 @@
 - [Home](/)
 
 - **Getting Started**
-  - [Introduction](01%20-%20Introduction.md)
+  - [Introduction](README.md)
   - [Dataspace Concepts](02%20-%20Dataspace%20Concepts.md)
   - [Customer Journeys](03%20-%20Customer%20Journeys.md)
 
